@@ -9,7 +9,7 @@ For each number in the list, we're going to check if it's divisible by all previ
 
 But only upto the square root of that number (_rounded up_)
 
-These are some timings (_on my Ubnutu_). Using **Python's** `timeit`:
+These are some timings (_on my Ubnutu_). Using **Python's** [timeit](https://docs.python.org/3/library/timeit.html):
 |Number of primes|Time|
 |:-: |:-:|
 |10000|0.291s|
